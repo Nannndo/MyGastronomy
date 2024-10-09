@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Salada de Alface com Alho poró",
+        "price": " 10.99",
+        "available": false,
+        "description": "A salada de alface e alho-poró combina folhas frescas, fatias de tomate e tiras crocantes de alho-poró, temperadas com azeite e limão.",
+        "ingredients": [
+            "Alho poró",
+            "Tomates frescos",
+            "Alface",
+            "Limão",
+            "Azeite"
+        ],
+        "category": "Entrada"
+    },
+    {
+        "name": "Bruschetta de Tomate e Manjericão",
+        "price": " 22.99",
+        "available": false,
+        "description": "A bruschetta de tomate e manjericão é uma entrada deliciosa de pão italiano tostado coberto com tomates frescos, manjericão, alho e azeite de oliva.",
+        "ingredients": [
+            "Pão italiano (como baguete ou ciabatta)",
+            "Tomates frescos (picados)",
+            "Folhas de manjericão fresco",
+            "Alho (picado ou em fatias)",
+            "Azeite de oliva",
+            "Sal e pimenta",
+            "Vinagre balsâmico (opcional, para um toque extra)"
+        ],
+        "category": "Entrada"
+    },
+    {
+        "name": "Ceviche de Peixe Branco",
+        "price": " 28.99",
+        "available": false,
+        "description": "O ceviche de peixe branco é uma entrada refrescante feita com cubos de peixe marinado em suco de limão, cebola roxa, coentro e pimenta, criando um sabor leve e cítrico.",
+        "ingredients": [
+            "Peixe branco fresco (como tilápia ou linguado), cortado em cubos",
+            "Suco de limão (ou limão siciliano)",
+            "Cebola roxa (finamente fatiada)",
+            "Coentro fresco (picado)",
+            "Pimenta (como pimenta dedo-de-moça, a gosto)",
+            "Sal",
+            "Abacate (opcional, para servir)",
+            "Batata-doce ou milho (opcional, como acompanhamento)"
+        ],
+        "category": "Entrada"
+    },
+    {
+        "name": "Frango grelhado com molho de mostarda e mel",
+        "price": " 35.00",
+        "available": false,
+        "description": "Frango grelhado com molho de mostarda e mel, servido com legumes assados ou arroz, é uma refeição suculenta e equilibrada.",
+        "ingredients": [
+            "Peitos de frango",
+            "Mostarda (de Dijon ou amarela)",
+            "Mel",
+            "Azeite de oliva",
+            "Alho (picado ou em pó)",
+            "Sal e pimenta",
+            "Ervas (como tomilho ou alecrim)",
+            "Limão"
+        ],
+        "category": "Principal"
+    },
+    {
+        "name": "Bacalhau à Brás",
+        "price": " 40.00",
+        "available": false,
+        "description": "O bacalhau à Brás é um prato português feito com bacalhau desfiado, batatas fritas, ovos, cebola e azeitonas, resultando em uma combinação deliciosa e reconfortante.",
+        "ingredients": [
+            "Bacalhau desfiado (pré-cozido)",
+            "Batatas (fritas em palha ou em tiras)",
+            "Ovos",
+            "Cebola (finamente fatiada)",
+            "Alho (picado)",
+            "Azeitonas (pretas, para decorar)",
+            "Salsinha (picada)",
+            "Azeite de oliva",
+            "Sal e pimenta"
+        ],
+        "category": "Principal"
+    },
+    {
+        "name": "Risoto de Cogumelos",
+        "price": " 35.00",
+        "available": false,
+        "description": "O risoto de cogumelos é um prato cremoso feito com arroz arbóreo, cogumelos, cebola, alho, vinho branco e queijo parmesão, resultando em uma combinação rica e saborosa.",
+        "ingredients": [
+            "Arroz arbóreo",
+            "Cogumelos variados (shiitake, paris ou portobello)",
+            "Caldo de legumes (ou de galinha)",
+            "Cebola (finamente picada)",
+            "Alho (picado)",
+            "Vinho branco",
+            "Queijo parmesão (ralado)",
+            "Manteiga",
+            "Azeite de oliva",
+            "Sal e pimenta (a gosto)",
+            "Salsinha ou cebolinha (para decorar)"
+        ],
+        "category": "Principal"
+    },
+    {
+        "name": "Tiramisu",
+        "price": " 29.99",
+        "available": false,
+        "description": "Sobremesa italiana feita com camadas de biscoitos savoiardi embebidos em café e mascarpone cremoso, polvilhada com cacau em pó.",
+        "ingredients": [
+            "Biscoitos savoiardi (ou ladyfingers)",
+            "Café expresso (frio)",
+            "Queijo mascarpone",
+            "Ovos (gemas e claras)",
+            "Açúcar",
+            "Cacau em pó (para polvilhar)",
+            "Licor (como Amaretto ou Marsala, opcional)"
+        ],
+        "category": "Sobremesa"
+    },
+    {
+        "name": "Panna Cotta",
+        "price": " 32.99",
+        "available": false,
+        "description": "Sobremesa italiana feita com camadas de biscoitos savoiardi embebidos em café e mascarpone cremoso, polvilhada com cacau em pó.",
+        "ingredients": [
+            "Nata (creme de leite)",
+            "Açúcar",
+            "Gelatina em pó (ou folhas de gelatina)",
+            "Leite",
+            "Essência de baunilha (ou fava de baunilha)",
+            "Frutas vermelhas (como morangos ou framboesas)",
+            "Água"
+        ],
+        "category": "Sobremesa"
+    },
+    {
+        "name": "torta de Limão",
+        "price": " 22.99",
+        "available": false,
+        "description": "A torta de limão é uma sobremesa refrescante com uma crosta de biscoito, recheio cremoso de leite condensado e limão, e cobertura de merengue levemente doce.",
+        "ingredients": [
+            "Biscoitos de maisena ou graham (triturados)",
+            "Manteiga (derretida)",
+            "Açúcar",
+            "Leite condensado",
+            "Suco de limão (fresco)",
+            "Raspas de limão",
+            "Gemas de ovo",
+            "Claras de ovo"
+        ],
+        "category": "Sobremesa"
+    }
+]
